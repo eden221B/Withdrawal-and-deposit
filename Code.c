@@ -45,7 +45,7 @@ void main()
         break;
         case 5:
         ten=5;
-        break;
+        break;//hello
     }
     }
 }
